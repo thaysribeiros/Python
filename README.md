@@ -1,2 +1,2 @@
 # Python
-Python projects I developed during my CodeAcademy course.
+Python projects I developed during my Codecademy course.
